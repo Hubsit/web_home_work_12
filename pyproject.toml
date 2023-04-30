@@ -21,6 +21,10 @@ python-multipart = "^0.0.6"
 bcrypt = "^4.0.1"
 psycopg2-binary = "^2.9.6"
 fastapi-mail = "^1.2.7"
+redis = "^4.5.4"
+fastapi-limiter = "^0.1.5"
+asyncio = "^3.4.3"
+cloudinary = "^1.32.0"
 
 [build-system]
 requires = ["poetry-core"]
